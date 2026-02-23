@@ -4,20 +4,19 @@
 Fetch user data from a public API and display it using JavaScript Fetch API.
 
 ## Features
-- Fetch user data using Fetch API
-- Async/Await implementation
-- Error handling with try/catch
-- HTTP status validation
-- Reload button
-- Responsive UI using CSS Grid
+- Fetch API
+- Async/Await
+- Error Handling
+- Reload Button
+- Responsive UI
+
+## Screenshots
+
+### Successful Data Load
+![Success](assets/success.png)
+
+### Error Handling (Internet Disabled)
+![Error](assets/error.png)
 
 ## API Used
 https://jsonplaceholder.typicode.com/users
-
-## Concepts Learned
-- Fetch API
-- Promises
-- Async/Await
-- JSON Parsing
-- Error Handling
-- REST APIs
